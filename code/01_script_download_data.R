@@ -22,6 +22,15 @@ options(timeout = 1e6)
 landfrag <- sf::st_read("01_data/00_landfrag/landfrag_v02_countries.gpkg")
 landfrag
 
+# download gadm -----------------------------------------------------------
+
+# download
+download.file(url = "https://geodata.ucdavis.edu/gadm/gadm4.1/gadm_410-levels.zip",
+              destfile = "01_data/01_limits/gadm_410-levels.zip", mode = "wb")
+
+# unzip
+unzip(zipfile = "01_data/01_limits/gadm_410-levels.zip", exdir = "01_data/01_limits")
+
 # download glclu 2019 -------------------------------------------------------
 
 # urls

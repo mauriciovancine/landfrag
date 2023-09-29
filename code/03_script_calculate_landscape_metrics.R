@@ -40,11 +40,9 @@ foreach::foreach(i=1:nrow(landfrag)) %do% {
     # point
     point <- sf::st_read(paste0("01_data/00_landfrag/00_points/landfrag_proj_", landfrag$rowid[i], ".gpkg"), quiet = TRUE)
     
-    # rasters
-    glclu <- raster::raster(paste0("01_data/01_glclu/01_landscapes/glclu_adjust_binary_proj_", landfrag$rowid[i], ".tif"))
-    worldpop <- raster::raster(paste0("01_data/02_worldpop/01_landscapes/worldpop_adjust_", landfrag$rowid[i], ".tif"))
-    hdi <- raster::raster(paste0("01_data/03_hdi/01_landscapes/hdi_proj_", landfrag$rowid[i], ".tif"))
-    
+    # raster
+    glclu <- raster::raster(paste0("01_data/02_glclu/01_landscapes/glclu_adjust_binary_proj_", landfrag$rowid[i], ".tif"))
+
     # buffers
     foreach::foreach(j=c(100, 500, 1000, 2000)) %dopar% {
         
@@ -53,10 +51,6 @@ foreach::foreach(i=1:nrow(landfrag)) %do% {
         
         # buffer
         point_buffer <- sf::st_buffer(point, dist = j)
-        
-        # worldpop
-        wp <- tibble::tibble(worldpop = terra::extract(worldpop, point_buffer, fun = median, na.rm = TRUE, df = TRUE)[, 2])
-        hd <- tibble::tibble(hdi = terra::extract(hdi, point_buffer, fun = median, na.rm = TRUE, df = TRUE)[, 2])
         
         # crop and mask
         glclu_buffer <- glclu %>%
@@ -125,7 +119,7 @@ foreach::foreach(i=1:nrow(landfrag)) %do% {
         }
         
         # export ----
-        dplyr::bind_cols(np, pl, pd, ed, enn, wp, hd) %>%
+        dplyr::bind_cols(np, pl, pd, ed, enn) %>%
             dplyr::mutate(across(everything(), ~ round(.x, 2))) %>% 
             dplyr::mutate(rowid = landfrag$rowid[i], buffer = j, .before = 1) %>% 
             readr::write_csv(paste0("02_metrics/00_raw/metrics_rowid", landfrag$rowid[i], "_buf", ifelse(j < 1000, paste0("0", j), j), ".csv"))
@@ -135,32 +129,15 @@ foreach::foreach(i=1:nrow(landfrag)) %do% {
 }
 doParallel::stopImplicitCluster()
 
-file
-
 # combine -----------------------------------------------------------------
 
 # list metrics files
 metrics_files <- dir(path = "02_metrics/00_raw", pattern = ".csv", full.names = TRUE)
 metrics_files
 
-for(i in metrics_files){
-    
-    print(i)
-    a <- readr::read_csv(i, col_types = cols())
-    
-    if("hdi" %in% colnames(a)){
-        
-    } else{
-        
-        a %>% 
-            dplyr::rename(hdi = popden) %>% 
-            readr::write_csv(i)
-    }
-}
-
 # import
 future::plan(multisession, workers = parallelly::availableCores(omit = 2))
-metrics <- furrr::future_map_dfr(metrics_files, read_csv, col_types = c("c", "d", "d", "d", "d", "d", "d", "d", "d"))
+metrics <- furrr::future_map_dfr(metrics_files, read_csv, col_types = c("c", "d", "d", "d", "d", "d", "d"))
 metrics
 
 # join

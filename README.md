@@ -20,8 +20,8 @@ Here, we gathered a global database of the composition and abundance of 9,154 sp
 
 ## Requirements
 
-R >= 3.5
-Required packages: tidyverse, geodata, sf, terra, SpatialKDE, ggsci, tmap, parallelly, doParallel, foreach, future, furrr
+- R >= 3.5
+- Required packages: tidyverse, geodata, sf, terra, SpatialKDE, ggsci, tmap, parallelly, doParallel, foreach, future, furrr
 
 ## Scripts
 

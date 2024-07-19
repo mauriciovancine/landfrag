@@ -27,26 +27,13 @@ Required packages: tidyverse, geodata, sf, terra, SpatialKDE, ggsci, tmap, paral
 
 - 00_script_landfrag.R
 
-## Code Structure
-
-├── data               # Raw and processed data
-│   ├── raw
-│   
-├── scripts            # Analysis scripts
-│   ├── 00_script_landfrag.R
-│  
-├── results            # Output results and figures
-│   ├── figures
-│   └── metrics
-├── README.md          # Project description 
-
 ## Data
 
-- folder - 00_landfrag_metadata
--- landfrag_abundances_jun2024_final_version.csv: species abundances for all studied fragments
--- landfrag_studies_jun2024_final_version.csv: metadata information for all individual studies
--- landfrag_studies_jun2024_metrics.csv: extracted landscape metrics for all studied fragments
-- folder - 01_landfrag_forest_files: raster files for all studied fragments.  
+- folder - 00_landfrag_metadata: 
+  - landfrag_abundances_jun2024_final_version.csv: species abundances for all studied fragments
+  - landfrag_studies_jun2024_final_version.csv: metadata information for all individual studies
+  - landfrag_studies_jun2024_metrics.csv: extracted landscape metrics for all studied fragments
+- folder - 01_landfrag_forest_files: raster files for all studied fragments
 - folder - 02_limits: utm zones
 
 

@@ -1,0 +1,49 @@
+taxon;scientific_name;body_size_mm;throphic_level_diet;reproductive_mode;foraging_strata_habitat;larvae_diet;larvae_trophic_level;taxon_no_data
+Diptera;Cheilosia antiqua;8;pollinator;ovipary;Forest;NA;NA;trait available
+Diptera;Cheilosia barbata;8.5;pollinator;ovipary;Forest;NA;NA;trait available
+Diptera;Cheilosia fraterna;8.9;pollinator;ovipary;forest;NA;NA;trait available
+Diptera;Cheilosia impressa;8;pollinator;ovipary;grassland;NA;NA;trait available
+Diptera;Cheilosia ranunculi/albitarsis;8.25;pollinator;ovipary;forest_clearings;NA;NA;trait available
+Diptera;Cheilosia scutellata;10;pollinator;ovipary;forest edge;fungi;fungivore;trait available
+Diptera;Cheilosia soror;8;pollinator;ovipary;forest_clearings;fungi;predator;trait available
+Diptera;Cheilosia vulpina;8.4;pollinator;ovipary;Forest;NA;NA;trait available
+Diptera;Chrysogaster solstitialis;8;pollinator;ovipary;wetland;organic_matter;saprophyte;trait available
+Diptera;Chrysotoxum bicinctum;13;pollinator;ovipary;forest_edge;NA;NA;trait available
+Diptera;Chrysotoxum verralli;9.1;pollinator;ovipary;Forest;NA;NA;trait available
+Diptera;Dasysyrphus tricinctus;NA;pollinator;ovipary;Forest;aphids and outher larvs;predator;trait available
+Diptera;Didea fasciata;13;pollinator;ovipary;forest;aphids;predator;trait available
+Diptera;Episyrphus balteatus;10.38;pollinator;ovipary;farmland;insectivore;predator;trait available
+Diptera;Eristalis arbustorum;10;pollinator;ovipary;forest_clearings;organic_matter;saprophyte;trait available
+Diptera;Eristalis interrupta;10.5;pollinator;ovipary;grassland;organic_matter;saprophyte;trait available
+Diptera;Eristalis intricaria;11.5;pollinator;ovipary;wetland;organic_matter;saprophyte;trait available
+Diptera;Eristalis lineata;14;pollinator;ovipary;heathland;NA;NA;trait available
+Diptera;Eristalis pertinax;12.7;pollinator;ovipary;wetland;organic_matter;saprophyte;trait available
+Diptera;Eristalis tenax;15.5;pollinator;ovipary;waterbodies;organic_matter;saprophyte;trait available
+Diptera;Eumerus ornatus;16;pollinator;ovipary;wetland;organic_matter;saprophyte;trait available
+Diptera;Eupeodes corollae;11;pollinator;ovipary;grassland;aphids;predator;trait available
+Diptera;Eupeodes lapponicus;14.1;pollinator;ovipary;forest;polen;Nectarivore;trait available
+Diptera;Eupeodes luniger;12;pollinator;ovipary;grassland;aphids;predator;trait available
+Diptera;Eupeodes nitens;11;pollinator;ovipary;Forest;aphids;predator;trait available
+Diptera;Ferdinandea cuprea;NA;pollinator;ovipary;Forest;organic_matter;phytophage;trait available
+Diptera;Helophilus hybridus;16;pollinator;ovipary;wetlands;organic_matter;saprophyte;trait available
+Diptera;Helophilus pendulus;10.5;pollinator;ovipary;waterbodies;organic_matter;saprophyte;trait available
+Diptera;Helophilus trivittatus;18;pollinator;ovipary;wetland;organic_matter;saprophyte;trait available
+Diptera;Heringia sp.;5;NA;NA;NA;NA;NA;trait available
+Diptera;Myathropa florea;12;pollinator;ovipary;wet_forest;organic_matter;saprophyte;trait available
+Diptera;Pipiza noctiluca/bimaculata;8.5;Nectarivore;ovipary;forest edge;aphids;predator;trait available
+Diptera;Pipizella sp.;8.9;pollinator;ovipary;urban;aphids;predator;trait available
+Diptera;Platycheirus albimanus;9.6;pollinator;ovipary;edges;aphids;predator;trait available
+Diptera;Scaeva pyrastri;15;pollinator;ovipary;wastland;aphids;predator;trait available
+Diptera;Scaeva selenitica;15;pollinator;ovipary;meadows;NA;NA;trait available
+Diptera;Sericomyia silentis;9.5;pollinator;ovipary;Forest;NA;NA;trait available
+Diptera;Sphaerophoria sp.;8;pollinator;ovipary;forest_clearings;aphids;predator;trait available
+Diptera;Syritta pipiens;9;pollinator;ovipary;farmland;organic_matter;saprophyte;trait available
+Diptera;Syrphus ribesii;16;pollinator;ovipary;grassland;aphids;predator;trait available
+Diptera;Syrphus torvus;15;pollinator;ovipary;synanthropic;aphids;predator;trait available
+Diptera;Syrphus vitripennis;14;pollinator;ovipary;forest_clearings;aphids;predator;trait available
+Diptera;Volucella bombylans;17;pollinator;ovipary;forest edge;organic_matter;saprophyte;trait available
+Diptera;Volucella pellucens;18;pollinator;ovipary;forest;hymenoptera_larvae;parasitoid;trait available
+Diptera;Xanthandrus comtus;NA;NA;ovipary;Forest;aphids and caterpillars;predator;trait available
+Diptera;Xanthogramma pedissequum;NA;pollinator;ovipary;Forest;NA;NA;trait available
+Diptera;Melanostoma sp.;NA;NA;NA;NA;NA;NA;no data
+Diptera;Paragus sp.;NA;NA;NA;NA;NA;NA;no data

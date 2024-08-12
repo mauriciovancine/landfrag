@@ -1,0 +1,110 @@
+taxon;scientific_name;Vertical.distribution;Age.at.maturity;Longevity;Clutch.size;Maximal.Shell.size;Survival.of.dry.period;Inundation.tolerance;taxon_no_data
+Gastropoda;Acanthinula aculeata;mixed;1;1.5;5.5;1.25;3;1.25;trait available
+Gastropoda;Aegopinella nitidula;mixed;1.13;1.5;18;10;2.25;1.75;trait available
+Gastropoda;Aegopinella pura;surface;1;1.5;5.5;3.75;2.75;1;trait available
+Gastropoda;Balea biplicata;mixed;1.13;4.5;5.5;17.5;2.83;2.33;trait available
+Gastropoda;Carychium tridentatum;mixed;1;2;5.5;1.25;2.5;2.33;trait available
+Gastropoda;Cepaea hortensis;surface;1.5;6.5;55.5;22.5;3.4;3;trait available
+Gastropoda;Cepaea nemoralis;surface;1.5;6.5;55.5;22.5;3.25;2.4;trait available
+Gastropoda;Clausilia bidentata;mixed;1.5;3.5;5.5;10;3;1.33;trait available
+Gastropoda;Cochlicopa lubrica;mixed;0.67;2;5.5;10;2.33;3;trait available
+Gastropoda;Cochlodina laminata;mixed;1.5;5.9;18;16.3;2.67;2.25;trait available
+Gastropoda;Columella aspera;surface;0.5;3.5;5.5;2.5;2.5;1;trait available
+Gastropoda;Columella edentula;surface;0.5;3.5;5.5;3.75;2.33;1.25;trait available
+Gastropoda;Daudebardia brevipes;soil;1;1.5;5.5;3.75;1.5;1;trait available
+Gastropoda;Discus rotundatus;mixed;0.88;2;5.5;10;3.25;2;trait available
+Gastropoda;Euconulus fulvus;mixed;0.7;1.5;5.5;2.5;2.4;1.25;trait available
+Gastropoda;Helix pomatia;surface;1.5;7.5;55.5;22.5;3.5;2.5;trait available
+Gastropoda;Merdigera obscura;mixed;1.5;4.5;5.5;10;3.75;1.25;trait available
+Gastropoda;Monachoides incarnatus;mixed;1.25;3.5;55.5;13.1;3;2.33;trait available
+Gastropoda;Oxychilus alliarius;mixed;1;1.5;5.5;10;2.75;1;trait available
+Gastropoda;Oxychilus cellarius;soil;1;1.5;30.5;10;2.5;1;trait available
+Gastropoda;Oxychilus draparnaudi;mixed;1;1.5;18;13.1;3.25;1;trait available
+Gastropoda;Phenacolimax major;soil;1;1.5;18;10;2.25;1.67;trait available
+Gastropoda;Punctum pygmaeum;mixed;0.88;2;5.5;1.25;3;2.5;trait available
+Gastropoda;Trichia hispida;mixed;1.13;3.5;30.5;10;3.25;3;trait available
+Gastropoda;Vertigo substriata;mixed;0.5;1.5;5.5;1.25;2.5;1.33;trait available
+Gastropoda;Vitrea contracta;soil;0.5;1.5;5.5;2.5;2;1.33;trait available
+Gastropoda;Vitrea crystallina;mixed;0.5;1.5;5.5;3.75;2;3;trait available
+Gastropoda;Acavus haemastoma;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Acavus phoenix;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Acavus superbus;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Arion distinctus;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Arion fuscus;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Arion intermedius;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Arion lusitanicus;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Arion rufus;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Arion silvaticus;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Arion subfuscus;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Ariophantid sp. A;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Aulopoma sp. A;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Beddomea albizonata;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Boettgerilla pallens;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Corilla adamsi;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Corilla colletti;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Cryptozona chenui;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Cyathopoma ceylanicum;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Cyathopoma sp. A;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Cyathopoma sp. B;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Cyclophorus involvulus;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Cyclophorus menkeanus;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Deroceras panormitanum;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Deroceras reticulatum;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Euconulus alderi;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Euplecta emiliana;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Euplecta hyphasma;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Euplecta indica;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Euplecta partita;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Euplecta prestoni;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Euplecta sp. Y;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Euplecta sp. Z;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Euplecta travancorica praeeminens;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Eurychlamys sp. A;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Eutomopeas layardi;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Glessula capillacea;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Glessula sp. A 1;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Glessula sp. A 2;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Glessula sp. A 3;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Glessula sp. A 4;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Glessula sp. C;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Glessula sp. G;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Glessula sp. H;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Glessula sp. I;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Japonia conulus;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Japonia sp. A;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Japonia sp. B;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Japonia vesca;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Lehmannia marginata;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Leptopoma semiclausum;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Leptopomoides poecilus;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Limax cinereoniger;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Limax maximus;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Macrochlamydinae sp. A;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Malacolimax tenellus;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Microcystina lita;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Nesovitrea hammonis;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;New genus related to Eurychlamys: sp. A;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Nicida delectabilis;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Oligospira poleii;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Philalalanka sp.;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Philalanka circumsculpta;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Philalanka secessa;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Philalanka thwaitesi;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Pupisoma miccyla;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Ratnadvipia irradians;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Ratnadvipia sp. A;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Ruthvenia sp. A 1;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Satiella sp. A;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Semperula siamensis;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Sitala operiens;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Subulina octona;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Theobaldius layardi;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Theobaldius sp. A;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Theobaldius sp. B;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Theobaldius sp. E;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Thysanota eumita;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Tortulosa aureus;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Tortulosa prestoni;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Tortulosa pyramidata;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Tortulosa sp. C;NA;NA;NA;NA;NA;NA;NA;no data
+Gastropoda;Vitrea pellucida;NA;NA;NA;NA;NA;NA;NA;no data

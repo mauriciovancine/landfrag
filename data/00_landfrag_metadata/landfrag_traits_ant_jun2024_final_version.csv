@@ -1,0 +1,275 @@
+taxon;scientific_name;Visibility;Traits.ID;Genus;Species;Invasive.To.Political.Region1;Morphospecies;Contributor;Latitude;Longitude;Head.width.across.eyes..mm.;Head.length..mm.;Clypeus.length..mm.;Mandible.length..mm.;Hind.femur.length..mm.;Scape.length..mm.;Weber.s.length..mm.;Pronotum.width..mm.;Inter.ocular.width..mm.;Max.eye.width..mm.;Whole.body.length..mm.;Number.of.Spines....;taxon_no_data
+Formicidae;Atta laevigata;Public;Vasconcelos&Pacheco_noyear_01_traits_1;Atta;laevigata;Native*;FALSE;Heraldo L. Vasconcelos & Renata Pacheco;-15.95797267;-47.92049733;2.83;2.44;0.57;1.825;4.59;2.68;3.22;1.63;2.385;0.29;Not in paper;6;trait available
+Formicidae;Atta laevigata;Public;Vasconcelos&Pacheco_noyear_01_traits_91;Atta;laevigata;Native*;FALSE;Heraldo L. Vasconcelos & Renata Pacheco;-9.25285;-44.78424333;2.83;2.44;0.57;1.825;4.59;2.68;3.22;1.63;2.385;0.29;Not in paper;6;trait available
+Formicidae;Camponotus atriceps;Public;Vasconcelos&Pacheco_noyear_01_traits_10;Camponotus;atriceps;Native;FALSE;Heraldo L. Vasconcelos & Renata Pacheco;-15.95797267;-47.92049733;2.24;2.39;0.81;1.15;2.99;2.51;3.29;1.57;1.41;0.47;Not in paper;0;trait available
+Formicidae;Camponotus blandus;Public;Vasconcelos&Pacheco_noyear_01_traits_11;Camponotus;blandus;Native*;FALSE;Heraldo L. Vasconcelos & Renata Pacheco;-15.95797267;-47.92049733;1.23;1.33;0.44;0.69;1.83;1.51;2.19;1.06;0.81;0.34;Not in paper;0;trait available
+Formicidae;Camponotus blandus;Public;Vasconcelos&Pacheco_noyear_01_traits_97;Camponotus;blandus;Native*;FALSE;Heraldo L. Vasconcelos & Renata Pacheco;-9.25285;-44.78424333;1.23;1.33;0.44;0.69;1.83;1.51;2.19;1.06;0.81;0.34;Not in paper;0;trait available
+Formicidae;Camponotus leydigi;Public;Vasconcelos&Pacheco_noyear_01_traits_98;Camponotus;leydigi;Native*;FALSE;Heraldo L. Vasconcelos & Renata Pacheco;-9.25285;-44.78424333;1.383333333;1.516666667;0.5;0.733333333;2.383333333;2.075;2.7;1.116666667;0.866666667;0.35;Not in paper;0;trait available
+Formicidae;Camponotus ligniperdus;Public;Gómez_noyearb_traits_17;Camponotus;ligniperdus;Native*;FALSE;Gómez;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;trait available
+Formicidae;Camponotus ligniperdus;Public;Gómez_noyearb_traits_18;Camponotus;ligniperdus;Native*;FALSE;Gómez;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;trait available
+Formicidae;Camponotus ligniperdus;Public;Gómez_noyearb_traits_19;Camponotus;ligniperdus;Native*;FALSE;Gómez;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;trait available
+Formicidae;Camponotus ligniperdus;Public;Gómez_noyearb_traits_20;Camponotus;ligniperdus;Native*;FALSE;Gómez;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;trait available
+Formicidae;Camponotus ligniperdus;Public;Gómez_noyearb_traits_21;Camponotus;ligniperdus;Native*;FALSE;Gómez;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;trait available
+Formicidae;Camponotus ligniperdus;Public;Gómez_noyearb_traits_22;Camponotus;ligniperdus;Native*;FALSE;Gómez;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;trait available
+Formicidae;Camponotus ligniperdus;Public;Gómez_noyearb_traits_23;Camponotus;ligniperdus;Native*;FALSE;Gómez;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;trait available
+Formicidae;Camponotus novogranadensis;Public;Vasconcelos&Pacheco_noyear_01_traits_15;Camponotus;novogranadensis;Native*;FALSE;Heraldo L. Vasconcelos & Renata Pacheco;-15.95797267;-47.92049733;1.02;1.11;0.35;0.54;1.22;1.16;1.48;0.87;0.7;0.25;Not in paper;0;trait available
+Formicidae;Camponotus novogranadensis;Public;Vasconcelos&Pacheco_noyear_01_traits_100;Camponotus;novogranadensis;Native*;FALSE;Heraldo L. Vasconcelos & Renata Pacheco;-9.25285;-44.78424333;1.02;1.11;0.35;0.54;1.22;1.16;1.48;0.87;0.7;0.25;Not in paper;0;trait available
+Formicidae;Cephalotes atratus;Public;Donoso_2014_traits_28;Cephalotes;atratus;Native*;FALSE;Donoso;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;trait available
+Formicidae;Cephalotes atratus;Public;Vasconcelos&Pacheco_noyear_01_traits_107;Cephalotes;atratus;Native*;FALSE;Heraldo L. Vasconcelos & Renata Pacheco;-9.25285;-44.78424333;3.85;2.683333333;0.625;1.15;3.825;1.783333333;4.191666667;2.516666667;3.366666667;0.466666667;Not in paper;4;trait available
+Formicidae;Cephalotes minutus;Public;Donoso_2014_traits_161;Cephalotes;minutus;Native*;FALSE;Donoso;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;trait available
+Formicidae;Cephalotes minutus;Public;Donoso_2014_traits_162;Cephalotes;minutus;Native*;FALSE;Donoso;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;trait available
+Formicidae;Cephalotes minutus;Public;Donoso_2014_traits_163;Cephalotes;minutus;Native*;FALSE;Donoso;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;trait available
+Formicidae;Cephalotes pusillus;Public;Vasconcelos&Pacheco_noyear_01_traits_24;Cephalotes;pusillus;Native*;FALSE;Heraldo L. Vasconcelos & Renata Pacheco;-15.95797267;-47.92049733;1.63;1.13;0.27;0.41;0.91;0.66;1.27;0.83;1.23;0.28;Not in paper;2;trait available
+Formicidae;Cephalotes pusillus;Public;Vasconcelos&Pacheco_noyear_01_traits_110;Cephalotes;pusillus;Native*;FALSE;Heraldo L. Vasconcelos & Renata Pacheco;-9.25285;-44.78424333;1.63;1.13;0.27;0.41;0.91;0.66;1.27;0.83;1.23;0.28;Not in paper;2;trait available
+Formicidae;Cephalotes simillimus;Public;Vasconcelos&Pacheco_noyear_01_traits_25;Cephalotes;simillimus;Native*;FALSE;Heraldo L. Vasconcelos & Renata Pacheco;-15.95797267;-47.92049733;1.53;1.09;0.25;0.38;0.81;0.58;1.19;0.79;1.23;0.34;Not in paper;2;trait available
+Formicidae;Crematogaster brasiliensis;Public;Donoso_2014_traits_40;Crematogaster;brasiliensis;Native*;FALSE;Donoso;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;trait available
+Formicidae;Crematogaster brasiliensis;Public;Donoso_2014_traits_41;Crematogaster;brasiliensis;Native*;FALSE;Donoso;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;trait available
+Formicidae;Crematogaster limata;Public;Donoso_2014_traits_148;Crematogaster;limata;Native*;FALSE;Donoso;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;trait available
+Formicidae;Acromyrmex sp. 01;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;no data
+Formicidae;Anochetus sp. 01;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;no data
+Formicidae;Azteca sp. 01;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;no data
+Formicidae;Azteca sp. A;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;no data
+Formicidae;Azteca sp. B;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;no data
+Formicidae;Azteca sp. C;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;no data
+Formicidae;Brachymyrmex sp. 003;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;no data
+Formicidae;Brachymyrmex sp. 006;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;no data
+Formicidae;Brachymyrmex sp. 01;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;no data
+Formicidae;Brachymyrmex sp. 02;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;no data
+Formicidae;Brachymyrmex sp. 03;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;no data
+Formicidae;Camponotus balzani;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;no data
+Formicidae;Camponotus crassus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;no data
+Formicidae;Camponotus fastigatus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;no data
+Formicidae;Camponotus femoratus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;no data
+Formicidae;Camponotus godmani;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;no data
+Formicidae;Camponotus latangulus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;no data
+Formicidae;Camponotus rapax;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;no data
+Formicidae;Camponotus rectangulares;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;no data
+Formicidae;Camponotus sp. 01;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;no data
+Formicidae;Camponotus sp. 018;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;no data
+Formicidae;Camponotus sp. 02;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;no data
+Formicidae;Camponotus sp. 03;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;no data
+Formicidae;Camponotus sp. 04;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;no data
+Formicidae;Camponotus sp. 07;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;no data
+Formicidae;Camponotus sp. 09;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;no data
+Formicidae;Cephalotes clypeatus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;no data
+Formicidae;Cephalotes femoralis;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;no data
+Formicidae;Cephalotes maculatus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;no data
+Formicidae;Cephalotes mompox;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;no data
+Formicidae;Cephalotes pavonii;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;no data
+Formicidae;Cephalotes umbraculatus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;no data
+Formicidae;Crematogaster erecta;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;no data
+Formicidae;Crematogaster minutissima;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;no data
+Formicidae;Crematogaster nigropilosa;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;no data
+Formicidae;Crematogaster sp. ;prox. parabiotica);NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Formicidae;Odontomachus meinerti ;minutus);NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Formicidae;Pheidole meinerti ;sp.033);NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Formicidae;Crematogaster sp. 01;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Crematogaster sp. 017;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Crematogaster sp. 020;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Crematogaster sp. 021;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Crematogaster sp. 025;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Cyphomyrmex sp. 01;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Cyphomyrmex sp. 04;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Daceton armigerum;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Dolichoderus attelaboides;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Dolichoderus bispinosus;Public;Donoso_2014_traits_34;Dolichoderus;bispinosus;Native*;FALSE;Donoso;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Dolichoderus debilis;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Dolichoderus imitator;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Dolichoderus lutosus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Dorymyrmex biconis;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Dorymyrmex pyramicus.guyanensis;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Ectatomma edentatum;Public;Baccaro_noyear_traits_3;Ectatomma;edentatum;Native*;FALSE;Baccaro;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Ectatomma edentatum;Public;Vasconcelos&Pacheco_noyear_01_traits_35;Ectatomma;edentatum;Native*;FALSE;Heraldo L. Vasconcelos & Renata Pacheco;-15.95797267;-47.92049733;1.61;1.71;0.64;1.2;2.28;1.71;2.81;1.18;1.21;0.29;Not in paper;0;
+Formicidae;Ectatomma edentatum;Public;Vasconcelos&Pacheco_noyear_01_traits_122;Ectatomma;edentatum;Native*;FALSE;Heraldo L. Vasconcelos & Renata Pacheco;-9.25285;-44.78424333;1.61;1.71;0.64;1.2;2.28;1.71;2.81;1.18;1.21;0.29;Not in paper;0;
+Formicidae;Ectatomma lugens;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Ectatomma muticum;Public;Vasconcelos&Pacheco_noyear_01_traits_123;Ectatomma;muticum;Native*;FALSE;Heraldo L. Vasconcelos & Renata Pacheco;-9.25285;-44.78424333;1.93;2.03;0.7;1.4;2.75;1.75;3.38;1.55;1.45;0.43;Not in paper;0;
+Formicidae;Ectatomma opaciventre;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Ectatomma quadridens;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Ectatomma ruidum;Public;Donoso_2014_traits_179;Ectatomma;ruidum;Unknown;FALSE;Donoso;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Ectatomma ruidum;Public;Donoso_2014_traits_180;Ectatomma;ruidum;Unknown;FALSE;Donoso;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Ectatomma ruidum;Public;Donoso_2014_traits_181;Ectatomma;ruidum;Unknown;FALSE;Donoso;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Ectatomma tuberculatum;Public;Donoso_2014_traits_204;Ectatomma;tuberculatum;Native*;FALSE;Donoso;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Ectatomma tuberculatum;Public;Donoso_2014_traits_205;Ectatomma;tuberculatum;Native*;FALSE;Donoso;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Forelius damiani;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Formica exsecta;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Formica fusca;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Formica polyctena;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Formica pratensis;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Formica pressilabris;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Formica rufa;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Formica rufibarbis;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Formica sanguinea;Public;Gibb_2011_traits_102;Formica;sanguinea;Native*;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Formica sanguinea;Public;Gibb_2011_traits_103;Formica;sanguinea;Native*;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Formica sanguinea;Public;Gibb_2011_traits_104;Formica;sanguinea;Native*;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Formica sanguinea;Public;Gibb_2011_traits_105;Formica;sanguinea;Native*;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Formica sanguinea;Public;Gibb_2011_traits_106;Formica;sanguinea;Native*;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Formica sanguinea;Public;Gibb_2011_traits_107;Formica;sanguinea;Native*;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Formica sanguinea;Public;Gibb_2011_traits_108;Formica;sanguinea;Native*;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Formica sanguinea;Public;Gibb_2011_traits_109;Formica;sanguinea;Native*;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Formica sanguinea;Public;Gibb_2011_traits_110;Formica;sanguinea;Native*;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Formica sanguinea;Public;Gibb_2011_traits_111;Formica;sanguinea;Native*;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Formicoxenus nitidulus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Gnamptogenys horni;Public;Donoso_2014_traits_113;Gnamptogenys;horni;Native*;FALSE;Donoso;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Gnamptogenys horni;Public;Donoso_2014_traits_114;Gnamptogenys;horni;Native*;FALSE;Donoso;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Gnamptogenys horni;Public;Donoso_2014_traits_115;Gnamptogenys;horni;Native*;FALSE;Donoso;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Gnamptogenys horni;Public;Donoso_2014_traits_116;Gnamptogenys;horni;Native*;FALSE;Donoso;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Gnamptogenys moelleri;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Gnamptogenys striatula;Public;Baccaro_noyear_traits_87;Gnamptogenys;striatula;Unknown;FALSE;Baccaro;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Labidus coecus;Public;Vasconcelos&Pacheco_noyear_01_traits_41;Labidus;coecus;Native*;FALSE;Heraldo L. Vasconcelos & Renata Pacheco;-15.95797267;-47.92049733;1;1.13;0.36;0.76;1.33;0.71;1.65;0.68;0.83;0.06;Not in paper;0;
+Formicidae;Lasius flavus;Public;Gómez_noyearb_traits_2;Lasius;flavus;Unknown;FALSE;Gómez;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Lasius flavus;Public;Gómez_noyearb_traits_3;Lasius;flavus;Unknown;FALSE;Gómez;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Lasius flavus;Public;Gómez_noyearb_traits_4;Lasius;flavus;Unknown;FALSE;Gómez;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Lasius fuliginosus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Lasius niger;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Lasius platythorax;Public;Gibb_2011_traits_82;Lasius;platythorax;Native*;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Lasius platythorax;Public;Gibb_2011_traits_83;Lasius;platythorax;Native*;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Lasius platythorax;Public;Gibb_2011_traits_84;Lasius;platythorax;Native*;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Lasius platythorax;Public;Gibb_2011_traits_85;Lasius;platythorax;Native*;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Lasius platythorax;Public;Gibb_2011_traits_86;Lasius;platythorax;Native*;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Lasius platythorax;Public;Gibb_2011_traits_87;Lasius;platythorax;Native*;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Lasius platythorax;Public;Gibb_2011_traits_88;Lasius;platythorax;Native*;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Lasius platythorax;Public;Gibb_2011_traits_89;Lasius;platythorax;Native*;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Lasius platythorax;Public;Gibb_2011_traits_90;Lasius;platythorax;Native*;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Lasius platythorax;Public;Gibb_2011_traits_91;Lasius;platythorax;Native*;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Leptogenys sp. 01;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Leptothorax acervorum;Public;Gibb_2011_traits_0;Leptothorax;acervorum;Native*;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Leptothorax acervorum;Public;Gibb_2011_traits_1;Leptothorax;acervorum;Native*;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Leptothorax acervorum;Public;Gibb_2011_traits_2;Leptothorax;acervorum;Native*;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Leptothorax acervorum;Public;Gibb_2011_traits_3;Leptothorax;acervorum;Native*;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Leptothorax acervorum;Public;Gibb_2011_traits_4;Leptothorax;acervorum;Native*;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Leptothorax acervorum;Public;Gibb_2011_traits_5;Leptothorax;acervorum;Native*;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Leptothorax acervorum;Public;Gibb_2011_traits_6;Leptothorax;acervorum;Native*;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Leptothorax acervorum;Public;Gibb_2011_traits_7;Leptothorax;acervorum;Native*;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Leptothorax acervorum;Public;Gibb_2011_traits_8;Leptothorax;acervorum;Native*;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Leptothorax acervorum;Public;Gibb_2011_traits_9;Leptothorax;acervorum;Native*;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Leptothorax gredleri;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Leptothorax muscorum;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Mycetophylax emery;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Myrmica lobicornis;Public;Gibb_2011_traits_72;Myrmica;lobicornis;Native*;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Myrmica lobicornis;Public;Gibb_2011_traits_73;Myrmica;lobicornis;Native*;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Myrmica lobicornis;Public;Gibb_2011_traits_74;Myrmica;lobicornis;Native*;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Myrmica lobicornis;Public;Gibb_2011_traits_75;Myrmica;lobicornis;Native*;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Myrmica lobicornis;Public;Gibb_2011_traits_76;Myrmica;lobicornis;Native*;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Myrmica lobicornis;Public;Gibb_2011_traits_77;Myrmica;lobicornis;Native*;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Myrmica lobicornis;Public;Gibb_2011_traits_78;Myrmica;lobicornis;Native*;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Myrmica lobicornis;Public;Gibb_2011_traits_79;Myrmica;lobicornis;Native*;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Myrmica lobicornis;Public;Gibb_2011_traits_80;Myrmica;lobicornis;Native*;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Myrmica lobicornis;Public;Gibb_2011_traits_81;Myrmica;lobicornis;Native*;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Myrmica lonae;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Myrmica rubra;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Myrmica ruginodis;Public;Gibb_2011_traits_92;Myrmica;ruginodis;Unknown;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Myrmica ruginodis;Public;Gibb_2011_traits_93;Myrmica;ruginodis;Unknown;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Myrmica ruginodis;Public;Gibb_2011_traits_94;Myrmica;ruginodis;Unknown;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Myrmica ruginodis;Public;Gibb_2011_traits_95;Myrmica;ruginodis;Unknown;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Myrmica ruginodis;Public;Gibb_2011_traits_96;Myrmica;ruginodis;Unknown;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Myrmica ruginodis;Public;Gibb_2011_traits_97;Myrmica;ruginodis;Unknown;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Myrmica ruginodis;Public;Gibb_2011_traits_98;Myrmica;ruginodis;Unknown;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Myrmica ruginodis;Public;Gibb_2011_traits_99;Myrmica;ruginodis;Unknown;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Myrmica ruginodis;Public;Gibb_2011_traits_100;Myrmica;ruginodis;Unknown;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Myrmica ruginodis;Public;Gibb_2011_traits_101;Myrmica;ruginodis;Unknown;FALSE;Gibb;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Myrmica scabrinodis;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Myrmica schencki;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Myrmicocrypta foreli;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Neivamyrmex pilosus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Ochetomyrmex subpolitus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Odontomachus bauri;Public;Donoso_2014_traits_33;Odontomachus;bauri;Native*;FALSE;Donoso;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Odontomachus bauri;Public;Vasconcelos&Pacheco_noyear_01_traits_133;Odontomachus;bauri;Native*;FALSE;Heraldo L. Vasconcelos & Renata Pacheco;-9.25285;-44.78424333;2.28;2.75;0.48;1.7;3.1;2.73;3.45;1.25;1.65;0.38;Not in paper;0;
+Formicidae;Odontomachus brunneus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Odontomachus caelatus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Odontomachus haematodus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Odontomachus scalptus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pachycondyla apicalis;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pachycondyla commutata;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pachycondyla constricta;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pachycondyla crassinoda;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pachycondyla harpax;Public;Baccaro_noyear_traits_5;Pachycondyla;harpax;Native*;FALSE;Baccaro;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pachycondyla harpax;Public;Donoso_2014_traits_102;Pachycondyla;harpax;Native*;FALSE;Donoso;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pachycondyla harpax;Public;Donoso_2014_traits_103;Pachycondyla;harpax;Native*;FALSE;Donoso;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pachycondyla harpax;Public;Donoso_2014_traits_104;Pachycondyla;harpax;Native*;FALSE;Donoso;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pachycondyla harpax;Public;Vasconcelos&Pacheco_noyear_01_traits_55;Pachycondyla;harpax;Native*;FALSE;Heraldo L. Vasconcelos & Renata Pacheco;-15.95797267;-47.92049733;1.82;1.88;0.43;1.26;1.78;1.54;2.88;1.28;1.45;0.3;Not in paper;0;
+Formicidae;Pachycondyla obscuricornis;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pachycondyla unidentata;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pachycondyla villosa.inversa;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Paratrechina sp. 001;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Paratrechina sp. 003;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Paratrechina sp. 005;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Paratrechina sp. 006;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Paratrechina sp. 01;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole exigua;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole sp. 001;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole sp. 006;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole sp. 01;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole sp. 011;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole sp. 012;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole sp. 014;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole sp. 015;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole sp. 016;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole sp. 02;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole sp. 021;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole sp. 023;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole sp. 024;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole sp. 025;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole sp. 027;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole sp. 028;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole sp. 03;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole sp. 032;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole sp. 04;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole sp. 045;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole sp. 046;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole sp. 05;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole sp. 051;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole sp. 052;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole sp. 056;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole sp. 06;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole sp. 065;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole sp. 067;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole sp. 069;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole sp. 07;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole sp. 074;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole sp. 076;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole sp. 077;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole sp. 078;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole sp. 085;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole sp. 089;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole sp. 090;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole sp. 091;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole sp. 10;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole sp. 109;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole sp. 118;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pheidole sp. 119;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Plathytyrea sp. 01;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pseudomyrmex filiformis;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pseudomyrmex flavidulus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pseudomyrmex gracillis;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pseudomyrmex oculatus;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pseudomyrmex sp. 01;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pseudomyrmex sp. 02;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pseudomyrmex sp. 03;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pseudomyrmex sp. 05;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pseudomyrmex sp. 06;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pseudomyrmex sp. 07;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Pseudomyrmex tenuis;Public;Vasconcelos&Pacheco_noyear_01_traits_145;Pseudomyrmex;tenuis;Native*;FALSE;Heraldo L. Vasconcelos & Renata Pacheco;-9.25285;-44.78424333;1.12;1.06;0.08;0.56;1.04;0.56;1.6;0.7;0.56;0.48;Not in paper;0;
+Formicidae;Rogeria scandens;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Rogeria sp. 01;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Serycomyrmex bondari;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Solenopsis geminata;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Solenopsis picea;Public;Donoso_2014_traits_172;Solenopsis;picea;Native*;FALSE;Donoso;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Solenopsis picea;Public;Donoso_2014_traits_173;Solenopsis;picea;Native*;FALSE;Donoso;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Solenopsis saevissima;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Solenopsis sp. 003;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Solenopsis sp. 004;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Solenopsis sp. 006;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Solenopsis sp. 008;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Solenopsis sp. 009;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Solenopsis sp. 012;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Solenopsis sp. 013;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Solenopsis sp. 03;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Solenopsis sp. 08;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Solenopsis sp. 09;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Tennothorax sp. 01;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Tennothorax sp. 02;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Trachymyrmex sp. 01;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Wasmannia auropunctata;Public;Baccaro_noyear_traits_0;Wasmannia;auropunctata;Unknown;FALSE;Baccaro;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Wasmannia auropunctata;Public;Donoso_2014_traits_31;Wasmannia;auropunctata;Unknown;FALSE;Donoso;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;
+Formicidae;Wasmannia auropunctata;Public;Vasconcelos&Pacheco_noyear_01_traits_87;Wasmannia;auropunctata;Native;FALSE;Heraldo L. Vasconcelos & Renata Pacheco;-15.95797267;-47.92049733;0.48;0.48;0.14;0.21;0.43;0.38;0.53;0.3;0.36;0.09;Not in paper;2;
+Formicidae;Wasmannia auropunctata;Public;Vasconcelos&Pacheco_noyear_01_traits_162;Wasmannia;auropunctata;Native;FALSE;Heraldo L. Vasconcelos & Renata Pacheco;-9.25285;-44.78424333;0.48;0.48;0.14;0.21;0.43;0.38;0.53;0.3;0.36;0.09;Not in paper;2;

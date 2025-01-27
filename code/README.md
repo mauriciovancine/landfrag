@@ -43,7 +43,7 @@ The `landfrag` script is a comprehensive R script designed to analyze landscape 
 - **Extracting and Processing Metrics**: Uses each study point to extract relevant landscape data and metrics (e.g., area mean, patch density) within buffer zones.
 - **Parallel Processing**: Implements parallel processing to analyze multiple studies simultaneously, increasing computational efficiency.
 
-#### Deatiled steps to extract the landscape metrics 
+#### Detailed steps to extract the landscape metrics 
 - **7.1. Identify Raw Data Files**
 -- List all `.tif` files in the `data/01_LandFrag_forest_files/raw` directory.
 

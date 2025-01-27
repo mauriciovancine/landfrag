@@ -44,15 +44,16 @@ The `landfrag` script is a comprehensive R script designed to analyze landscape 
 - **Parallel Processing**: Implements parallel processing to analyze multiple studies simultaneously, increasing computational efficiency.
 
 #### Detailed steps to extract the landscape metrics 
-- **7.1. Identify Raw Data Files**
+
+**7.1. Identify Raw Data Files**
 -- List all `.tif` files in the `data/01_LandFrag_forest_files/raw` directory.
 
-- **7.2. Prepare Data**
+**7.2. Prepare Data**
 - Iterate through each file:
 - Standardize file names to lower case and replace hyphens with underscores.
 - Copy and rename these files to a new directory with the `landfrag_landscape_` prefix.
 
-- **7.3. Identify Landfrag Landscapes**
+**7.3. Identify Landfrag Landscapes**
 - List all processed `.tif` files to confirm readiness for analysis.
 
 **7.4. Confer Points to Landscapes**

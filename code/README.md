@@ -43,10 +43,48 @@ The `landfrag` script is a comprehensive R script designed to analyze landscape 
 - **Extracting and Processing Metrics**: Uses each study point to extract relevant landscape data and metrics (e.g., area mean, patch density) within buffer zones.
 - **Parallel Processing**: Implements parallel processing to analyze multiple studies simultaneously, increasing computational efficiency.
 
-### 8. Save and Export Metrics
+#### Deatiled steps to extract the landscape metrics 
+- **7.1. Identify Raw Data Files**
+-- List all `.tif` files in the `data/01_LandFrag_forest_files/raw` directory.
+
+- **7.2. Prepare Data**
+- Iterate through each file:
+- Standardize file names to lower case and replace hyphens with underscores.
+- Copy and rename these files to a new directory with the `landfrag_landscape_` prefix.
+
+- **7.3. Identify Landfrag Landscapes**
+- List all processed `.tif` files to confirm readiness for analysis.
+
+**7.4. Confer Points to Landscapes**
+- Loop through each unique study reference:
+- Extract points corresponding to each reference from the study metadata.
+- Identify matching landscape files for each reference.
+- If no match is found, mark the point as having "no_data_yet".
+- For matched landscapes, extract forest data and assign it to the point. Use mosaicking when necessary.
+
+**7.5. Determine Missing Data**
+- Identify and list study points that lack forest data.
+
+**7.6. Register Parallel Processing**
+- Use parallel processing to speed up metric calculations by utilizing available CPU cores.
+
+**7.7. Compute Metrics**
+- For each study ID:
+- Extract and convert the study point to UTM coordinates.
+- Identify and process corresponding landscape files, using mosaicking if multiple files exist.
+- Crop landscapes around each point with a 2.5 km buffer and adjust projections.
+- Calculate landscape metrics for buffers ranging from 200 to 2000 meters, in 200-meter increments:
+  - Metrics include area mean, percentage of landscape, patch density, edge density, and others.
+  - Compute these metrics when sufficient data exists (e.g., multiple patches for nearest-neighbor calculations).
+- Compile metrics into a data frame and append buffer and study IDs.
+
+**7.8. Export Metrics and Maps**
+- Outline process for saving calculated metrics and landscape representation maps, ensuring ready visualization and further analysis.
+
+**7.9. Save and Export Metrics**
 - **Export Results**: Writes computed metrics to CSV files, saving them per study, and exports visual maps as PNG files.
 
-### 9. Combine and Export All Data
+### 8. Combine and Export All Data
 - **Combine Metrics**: Reads individual metric files and combines them into a single data frame.
 - **Join and Export Final Dataset**: Joins combined metrics back with study metadata and exports the complete dataset to CSV.
 

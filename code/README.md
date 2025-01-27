@@ -17,7 +17,7 @@ The `landfrag` script is a comprehensive R script designed to analyze landscape 
 ### 1. Prepare R Environment
 - **Load Libraries**: `library()` is used to load the necessary packages for data manipulation, spatial analysis, and parallel processing.
 
-### 2. Import Data
+### 2. Import Data (available in data folder)
 - **Landfrag Studies Metadata**: Reads and displays study metadata from CSV files.
 - **Country Boundaries**: Downloads and processes world country boundaries, making them spatially valid.
 - **UTM Zones**: Reads UTM zone shapefiles for spatial transformations.

@@ -1,4 +1,4 @@
-# README: Landfrag - Landscape Metrics
+# README: how to run the code
 
 ## Overview
 The `landfrag` script is a comprehensive R script designed to analyze landscape metrics across various studies, focusing on landscape fragmentation data. This README explains the script steps, required packages, data preparation, and analysis process.

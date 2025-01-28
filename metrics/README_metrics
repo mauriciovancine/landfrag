@@ -1,0 +1,36 @@
+# Data Repository
+
+## Overview
+
+This repository contains 2,916 CSV files, each structured with the same set of columns. These datasets were extracted from the script available in the **[code/](code/)** folder.
+
+## File Structure
+
+All CSV files in this repository share a common structure with the following column names:
+
+- **id**: Unique identifier for each entry. This is the same id from the file landfrag_studies_jun2024_final_version.csv available in the **[data/](data/)** folder 
+- **buffer**:  Buffer scale (radius of 200 m to 2,000 m).
+- **area_mn**: Mean area of fragments.
+- **pland**: Percentage of forest in the landscape.
+- **np**: Number of fragments.
+- **pd**: Fragment density.
+- **enn_mn**: Inter-fragment isolation distance.
+- **ai**: Aggregation  index.
+- **ed**: Edge density.
+- **lpi**: Largest patch index.
+- **para_mn**: Perimeter-area ratio.
+- **contig_mn**: Contiguity index.
+- NOTE: More details about these metrics in the Table 1 of the main manuscript. 
+
+## Usage
+
+These files can be used for testing the effects of landscape metrics on species diversity. Because the species abundance, composition, and traits are available for each **id** (first column), it is possible to match biodiversity and landscape data. 
+
+1. [List specific analyses, if any]
+2. [Applications or insights derived from the data]
+
+## Getting Started
+
+To make use of these files, you can clone this repository using the following command:
+
+```sh

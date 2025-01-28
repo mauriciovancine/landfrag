@@ -1,6 +1,3 @@
-It seems like you might be encountering an issue because some characters are not being rendered properly or there's a formatting issue. Let me provide a refined version of the README.md content:
-
-```markdown
 # Land Data Analysis
 
 This repository contains two primary datasets focused on analyzing land fragment abundance and studies. Below is a summary of the structure and content of these datasets.
@@ -70,6 +67,3 @@ This repository contains two primary datasets focused on analyzing land fragment
 ## Usage
 
 These datasets can be utilized for understanding fragment abundance, biodiversity studies, and the impact of different environmental conditions on species abundance.
-```
-
-Please ensure that when saving this content as a README.md file, no special formatting from other software (like Word) interferes. Use a plain text editor to avoid such issues. If there's any specific error message, checking it might also help identify what's going wrong.

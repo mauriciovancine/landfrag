@@ -25,10 +25,6 @@ All CSV files in this repository share a common structure with the following col
 ## Usage
 
 These files can be used for testing the effects of landscape metrics on species diversity. Because the species abundance, composition, and traits are available for each **id** (first column), it is possible to match biodiversity and landscape data. 
-
-1. [List specific analyses, if any]
-2. [Applications or insights derived from the data]
-
 ## Getting Started
 
 To make use of these files, you can clone this repository using the following command:

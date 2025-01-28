@@ -4,6 +4,17 @@ The data repository contains three folders. First, the landfrag data with the da
 
 ## Datasets Overview
 
+### landfrag_forest_files
+- This folder includes the raster files (*.tif) for all 121 studies. These raster files can be used to replicate all analysis of the manuscript. Also, the user can extract their own metrics by using the raster files.
+   
+### limits
+- This folder contains geospatial files related to UTM (Universal Transverse Mercator) zones and EPSG (European Petroleum Survey Group) codes. These files are essential for geospatial data analysis and map projections: 
+
+- **utm_zones_epsg.dbf**
+- **utm_zones_epsg.prj**
+- **utm_zones_epsg.shp**
+ - **utm_zones_epsg.shx**
+ 
 ### landfrag_abundances
 
 - **Rows**: 66,231

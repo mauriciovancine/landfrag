@@ -1,6 +1,6 @@
-# Land Data Analysis
+# LandFrag data
 
-This repository contains two primary datasets focused on analyzing land fragment abundance and studies. Below is a summary of the structure and content of these datasets.
+The data repository contains three folders. First, the landfrag data with the datasets landfrag_ 
 
 ## Datasets Overview
 

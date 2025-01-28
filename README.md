@@ -1,22 +1,25 @@
 # LandFrag: a dataset to investigate the effects of forest loss and fragmentation on biodiversity
 
-## Abstract
+## Repository Structure
 
-*Motivation*. The accelerated and widespread conversion of once continuous ecosystems into fragmented landscapes has driven ecological research to understand the response of biodiversity to local (fragment size) and landscape (e.g., forest cover and fragmentation) changes. This information has important theoretical and applied implications but is still far from complete. Here, we compiled a comprehensive and updated database that can be useful for assessing species responses to local and landscape drivers across different taxa and multiple scales.
+- **data/**: Contains all datasets used in the project.
+  - **00_landfrag_metadata/**: Raw data files directly obtained from the sources, including study information, species abundances, composition, and traits.
+  - **01_landfrag_forest_files/**: raster files (*.tif) for all 121 studies.
+  - **02_limits/**: geospatial files related to UTM (Universal Transverse Mercator) zones and EPSG (European Petroleum Survey Group) codes.
+  - **README_datasets.md**: Detailed information about the three previous datasets.
 
-*Main types of variables contained*. We provide information on the abundance and composition of 9,154 species belonging to different taxonomic groups and the functional traits (morphological, trophic, and reproductive traits) of 2,703 species in 1,472 forest fragments. We also provide the spatial location and size (hectares) of each fragment, as well as the composition (percent forest cover) and configuration (fragment density, forest edge density, and mean inter-fragment isolation distance) of the surrounding landscape. These landscape metrics were measured in concentric buffers from the center of each study fragment; the buffer size ranged from a radius of 200 m to 2,000 m, in 100 m increments.
+- **code/**: Contains all the scripts and notebooks used to process data and generate results.
+  - **scripts/**: Rscript to run the code to extract the landscape variables.
+  - **README_code.md**: Information on how to run the code and dependencies.
 
-*Spatial location and grain*. The dataset includes forest fragments sampled in 121 studies from all continents except Antarctica. Most datasets (77%) are from tropical regions, 17% from temperate regions, and 6% from subtropical regions, and were principally done in America (56% from South America, 11% from North America) and Asia (11%).
+- **figures/**: Maps generated with the coordinates from the studies.
 
-*Time period and grain*. Data were collected between 1994 and 2022, and included spatial information recorded at different spatial scales. 
+- **metrics/**: Contains files related to the landscape metrics extracted from all studies.
 
-*Major taxa and level of measurement*. The studied organisms included invertebrates (Arachnida, Insecta, and Gastropoda), vertebrates (Amphibia, Squamata, Aves, and Mammalia), and vascular plants.
+- **LICENSE**: License information for the repository.
 
-*Software format*. The dataset and code are available on Zenodo and GitHub.
+- **landfrag.Rproj**: R project file for easy project management in RStudio.
 
-## Description
-
-Here, we gathered a global database of the composition and abundance of 9,154 species sampled in 1,472 forest fragments as part of 121 studies of different taxonomic groups in tropical, subtropical, and temperate regions (Fig. 1). For 2,703 of these species, we were also able to compile information on morphological, trophic, habitat, and reproductive traits. We recorded the spatial location of each study fragment, its size (in hectares), and the spatial structure of the landscape surrounding each fragment. We calculated ten landscape variables (Table 1) that have been at the core of important ecological debates (Fahrig et al., 2022; Riva & Fahrig, 2023; Riva et al., 2024). Therefore, this dataset has broad applicability in ecological research, and can potentially be used to address many research questions in fragmented landscapes at all spatial scales, from local to global. Importantly, since the effect of landscape structure on biodiversity can be unnoticed if assessed at the wrong scale (Jackson and Fahrig, 2015), we calculated landscape metrics in circular landscapes of different sizes (from 200 to 2,000 m radius). This multiscale information can be highly valuable to identify the so-called “scale of effect” of each landscape metric on each response (Jackson and Fahrig, 2015) - an emerging topic in landscape ecology that can be used for assessing important hypotheses on spatial scaling issues (Miguet et al., 2016).
 
 ## Requirements
 

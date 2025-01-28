@@ -4,7 +4,7 @@ The data repository contains three folders. First, the landfrag data with the da
 
 ## Datasets Overview
 
-### land_abund
+### landfrag_abundances
 
 - **Rows**: 66,231
 - **Columns**: 8
@@ -20,7 +20,7 @@ The data repository contains three folders. First, the landfrag data with the da
 - **tsn**: Taxonomic serial number, if available (integer).
 - **taxon**: Taxonomic classification of species (string).
 
-### land_studies
+### landfrag_studies
 
 - **Rows**: 2,916
 - **Columns**: 36

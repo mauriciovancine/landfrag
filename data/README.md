@@ -1,6 +1,6 @@
 # LandFrag data
 
-The data repository contains three folders. First, the landfrag data with the datasets landfrag_ 
+The data repository contains three folders. First, the landfrag data with the datasets landfrag_abundances, landfrag_studies, and all landfrag_traits. Details about landfrag_abundances and landfrag_studies can be found below, but also in the file landfrag_abundances_metadata and README_landfrag_studies README__metadata in the folder 00_landfrag_metadata. 
 
 ## Datasets Overview
 
